@@ -6,6 +6,7 @@ The *WheelMask* shader graph creates the wheel; quadrents with individual radii,
 ## Properties
 
 ![Screenshot of shader properties](WheelMask_Properties.png "Shader Properties")
+![Gif previewing shader properties](ShaderProperties.gif "Shader Properties Preview")
 
 ## Scripting Example
 
